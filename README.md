@@ -1,5 +1,4 @@
-# ML
-Machine learning projects
+# Machine learning Projects
 
 1. Trained a machine learning model that can accurately predict health insurance prices for individuals based on attributes such as age, sex, region, etc.
 2. developed an ML model for lung cancer prediction. Given information about the patient, such as their sex, age, allergies, etc.
